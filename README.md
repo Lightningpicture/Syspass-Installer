@@ -10,4 +10,4 @@ Have Fun
 
 
 Tested with Debian 8 
-Feel free for Changes ans send it to Help other People.
+Feel free to make changes and send it to Help other.
